@@ -1,0 +1,17 @@
+LogVersion: 2
+Person:Person1206
+Gender:male
+Generation:20;late
+Height(cm):173
+Weight(kg):70
+Shoes:sneakers
+TerminalMount:free
+TerminalPosition:wear;outer;chest
+UseHistory:2
+
+Route: ra00
+Activity: stay
+TerminalID: 4ac98181d65082ae
+TerminalType: GT-I9300;SDK=16;VI=I9300XXELLB
+ClientVersion: Logger+Wifi for Android;1.0
+Frequency: 100

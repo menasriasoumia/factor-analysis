@@ -1,0 +1,18 @@
+LogVersion: 2
+Person:Person1203
+Gender:male
+Generation:20;early
+Height(cm):169
+Weight(kg):80
+Shoes:sneakers
+TerminalMount:fixed
+TerminalPosition:strap;waist;rear
+UseHistory:1
+
+Route: ra00
+Activity: stay
+TerminalID: 961721542f1ecbf1
+TerminalType: Nexus 4;SDK=17;VI=533553
+ClientVersion: Logger+Wifi for Android;1.0
+Frequency: 100
+AttachmentDirection:rear;portrait
