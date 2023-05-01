@@ -1,4 +1,3 @@
-# PGAN 
-You will find in this folder the implementaton for PGAN1 and PGAN2 framworks. Paper titled : PGAN Framework for Synthesizing Sensor Data Privately.
-
+# factor analyis
+You will find in this folder the implementaton for Research on Key technologies of activity recognition and identity privacy protection from accelerometer data
 
